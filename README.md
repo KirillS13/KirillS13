@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Привет, я Кирилл! 
 
-<!--
-**KirillS13/KirillS13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer, разрабатываю производительные веб-приложения на **Go** и **React / Next.js**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Технологический стек:
+
+**Backend:**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Echo](https://img.shields.io/badge/Echo-000000?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📊 Моя статистика GitHub:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KirillS13&show_icons=true&theme=dark&hide_border=true" alt="Kirill's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillS13&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+📫 **Связаться со мной:**
+- Email: furtunaceril@gmail.com
