@@ -13,8 +13,7 @@
 ### 📈 Статистика GitHub:
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KirillS13&show_icons=true&theme=dark&hide_border=true" alt="" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillS13&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=KirillS13&theme=dark&hide_border=true" />
 </p>
 
 ### 📬 Связаться со мной:
