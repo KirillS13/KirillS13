@@ -14,12 +14,8 @@
 ### 📈 Статистика GitHub:
 
 <p align="left">
-  <a href="https://github.com/KirillS13">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=KirillS13&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Kirill's GitHub stats" />
-  </a>
-  <a href="https://github.com/KirillS13">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillS13&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KirillS13&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillS13&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 📬 Связаться со мной:
