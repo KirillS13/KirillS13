@@ -1,26 +1,30 @@
-# 👋 Привет, я Кирилл! 
+# 👋 Привет, я Кирилл!
 
-Full-Stack Developer, разрабатываю производительные веб-приложения на **Go** и **React / Next.js**.
-
----
+> Backend Developer, разрабатываю производительные веб-приложения на **Go**.
 
 ### 🚀 Технологический стек:
 
 **Backend:**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Echo](https://img.shields.io/badge/Echo-000000?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- **Go** (Golang), **Echo** (Framework)
+- **PostgreSQL** (Database)
 
 ---
 
 ### 📊 Моя статистика GitHub:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KirillS13&show_icons=true&theme=dark&hide_border=true" alt="Kirill's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillS13&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+- **Username:** KirillS13
+
+<p align="left">
+  <a href="https://github.com/KirillS13">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KirillS13&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Kirill's GitHub stats" />
+  </a>
+  <a href="https://github.com/KirillS13">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillS13&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  </a>
 </p>
 
 ---
 
 📫 **Связаться со мной:**
-- Email: furtunaceril@gmail.com
+
+- **Email:** <furtunaceril@gmail.com>
