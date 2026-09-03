@@ -12,11 +12,12 @@
 * Designing and building scalable APIs, optimizing performance and business logic.
 * Specialized in creating reliable server-side solutions with a modern tech stack.
 
+
 ### 🚀 Tech Stack:
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%23000000.svg?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23000000.svg?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ### 📬 Get in Touch:
 
