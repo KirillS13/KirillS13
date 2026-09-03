@@ -10,11 +10,8 @@
 
 * **Backend:** Go (Echo), PostgreSQL, SQL
 
-### 📈 GitHub Stats:
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KirillS13&show_icons=true&theme=dark&hide_border=true" alt="" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillS13&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUGGAC3P4PP9385a/giphy.gif" width="100%" alt="Coding Animation" />
 </p>
 
 ### 📬 Get in Touch:
