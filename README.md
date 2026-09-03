@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Kirill! Backend Developer
 
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F75049&width=435&lines=Building+scalable+APIs+with+Go;Specialized+in+Echo+%26+PostgreSQL;Backend+Development+Under+Control" alt="Typing SVG" />
+  </a>
+</p>
+
 ---
 
 * Backend Developer (**Go** • **Echo**, **PostgreSQL**)
@@ -8,15 +14,9 @@
 
 ### 🚀 Tech Stack:
 
-* **Backend:** Go (Echo), PostgreSQL, SQL
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUGGAC3P4PP9385a/giphy.gif" width="100%" alt="Coding Animation" />
-</p>
-
----
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 📬 Get in Touch:
 
